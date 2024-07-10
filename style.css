@@ -1,0 +1,43 @@
+body {
+    border: 0px;
+    margin: 0px;
+    padding: px;
+}
+
+nav {
+    display: flex;
+}
+
+h1 {
+    display: flex;
+    padding-left: 30px;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style-type: none;
+    margin-inline-start: 50vw;
+    max-width: max-content;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    margin-inline-end: 30px;    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    padding: 5px;
+    background-color: blueviolet;
+}
+
+footer {
+
+}
